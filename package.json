@@ -1,0 +1,15 @@
+{
+  "name": "thats-kak-funny",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:martink-rsa/thats-kak-funny.git",
+  "author": "Martin Kruger <martin@martinkruger.com>",
+  "license": "MIT",
+  "staticFiles": {
+    "staticPath": "src/static"
+  },
+  "dependencies": {
+    "howler": "^2.2.3",
+    "parcel-plugin-static-files-copy": "^2.6.0"
+  }
+}
